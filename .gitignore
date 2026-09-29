@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdatad
+xcuserdata/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+
+# Keep your API key out of git by putting it here instead of Config.xcconfig
+# Config/Config.local.xcconfig

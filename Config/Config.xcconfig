@@ -1,0 +1,13 @@
+//
+//  Config.xcconfig
+//  CurrencyConverter
+//
+
+// Your Open Exchange Rates App ID. Get a free one at
+// https://openexchangerates.org/signup/free and paste it below.
+//
+// This file is committed with an empty value on purpose. If you would rather
+// keep your key out of git entirely, uncomment the Config.local line in
+// .gitignore and put the key in Config/Config.local.xcconfig instead.
+
+OXR_APP_ID =

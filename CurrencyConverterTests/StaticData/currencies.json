@@ -1,0 +1,14 @@
+{
+  "AED": "United Arab Emirates Dirham",
+  "AUD": "Australian Dollar",
+  "BTC": "Bitcoin",
+  "CAD": "Canadian Dollar",
+  "CHF": "Swiss Franc",
+  "EUR": "Euro",
+  "GBP": "British Pound Sterling",
+  "INR": "Indian Rupee",
+  "JPY": "Japanese Yen",
+  "KWD": "Kuwaiti Dinar",
+  "USD": "United States Dollar",
+  "XXX": "Code With No Rate"
+}
